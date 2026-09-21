@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alvarezdigitalstudio.github.io/Licdo-Jaime-abogado/sitemap.xml
